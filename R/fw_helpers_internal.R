@@ -102,7 +102,7 @@
 
             /* Header */
                 .main-header {
-                    position: fixed;
+                    position: absolute;
                     width: 100%;
                 }
 
